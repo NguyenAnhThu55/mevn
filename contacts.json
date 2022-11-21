@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "63711816d465dc483cf397a3"
+  },
+  "name": "Nguyễn Anh Thư",
+  "address": "Vĩnh Long",
+  "phone": "0395245117",
+  "email": "Thu123@gmail.com",
+  "created": {
+    "$date": {
+      "$numberLong": "1668356118093"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b8b0640a242260ce250a7"
+  },
+  "name": "Huỳnh Thị Xuân Diệu",
+  "address": "TP HCM",
+  "phone": "0939 112 053",
+  "email": "mydestiny138@gmail.com",
+  "created": {
+    "$date": {
+      "$numberLong": "1669040902537"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b8be040a242260ce250aa"
+  },
+  "name": "Hot line",
+  "address": "TP HCM",
+  "phone": "0909 112 112",
+  "email": "112alo@gmail.com",
+  "created": {
+    "$date": {
+      "$numberLong": "1669041120100"
+    }
+  },
+  "__v": 0
+}]

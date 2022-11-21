@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "6355411b105675355cd4c039"
+  },
+  "admin": false,
+  "username": "thuthu",
+  "email": "thu@gmail.com",
+  "password": "$2b$10$exItjuxv3E3Rm07Dmow5guIK0IomI4CzsgI0ef8t/ZnUvXLDXC7O.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666531611964"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666531611964"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6373221cc323595980e3d9e0"
+  },
+  "admin": false,
+  "username": "anhthu",
+  "email": "thu123456@gmail.com",
+  "password": "$2b$10$GC9k08HM7.kJUdcTIZDqCOVz5EPG6jF6DYYEIZaDLe8pUu9aR9j/K",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668489756832"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668489756832"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6373277f68dc532b44c723e9"
+  },
+  "admin": false,
+  "username": "Anh Thư",
+  "email": "anhthu@gmail.com",
+  "password": "$2b$10$NEUKBuCDSJgErtdUQ9tEH.f.ZgaorbtdlUgWlN/AZIzf/38jTxta6",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668491135775"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668491135775"
+    }
+  },
+  "__v": 0
+}]
